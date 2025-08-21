@@ -13,9 +13,9 @@ A Python-based Face Recognition Application, powered by OpenCV. This project det
 
 ## Tech Stack
 
-* Python 3.8+**
-* OpenCV** (for video and face detection)
-* face\_recognition** (for face encoding & recognition)
+* Python 3.8+
+* OpenCV (for video and face detection)
+* numpy (for face encoding & recognition)
 
 ---
 
